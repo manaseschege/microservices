@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="382ae8b0-12ee-4222-99c6-710007f6ab6f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../DeepRelationJpa/src/main/java/com/example/demo/dto/Mapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepRelationJpa/src/main/java/com/example/demo/dto/requestDto/AuthorRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepRelationJpa/src/main/java/com/example/demo/dto/requestDto/BookRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepRelationJpa/src/main/java/com/example/demo/dto/requestDto/CategoryRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepRelationJpa/src/main/java/com/example/demo/dto/requestDto/CityRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepRelationJpa/src/main/java/com/example/demo/dto/requestDto/ZipcodeRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepRelationJpa/src/main/java/com/example/demo/dto/responseDto/AuthorResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepRelationJpa/src/main/java/com/example/demo/dto/responseDto/BookResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepRelationJpa/src/main/java/com/example/demo/dto/responseDto/CategoryResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepRelationJpa/src/main/java/com/example/demo/model/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepRelationJpa/src/main/java/com/example/demo/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepRelationJpa/src/main/java/com/example/demo/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepRelationJpa/src/main/java/com/example/demo/model/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepRelationJpa/src/main/java/com/example/demo/model/Zipcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepRelationJpa/src/main/java/com/example/demo/repository/AuthorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepRelationJpa/src/main/java/com/example/demo/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepRelationJpa/src/main/java/com/example/demo/repository/CategoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepRelationJpa/src/main/java/com/example/demo/repository/CityRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepRelationJpa/src/main/java/com/example/demo/repository/ZipcodeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepRelationJpa/src/main/java/com/example/demo/services/AuthorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepRelationJpa/src/main/java/com/example/demo/services/AuthorServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepRelationJpa/src/main/java/com/example/demo/services/CityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepRelationJpa/src/main/java/com/example/demo/services/CityServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepRelationJpa/src/main/java/com/example/demo/services/ZipcodeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepRelationJpa/src/main/java/com/example/demo/services/ZipcodeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank/src/main/java/com/zech/bank/config/ProjectSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank/src/main/java/com/zech/bank/config/ZechBankUserDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank/src/main/java/com/zech/bank/config/ZechBankUsernamePwdAuthenticationProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank/src/main/java/com/zech/bank/controller/AccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank/src/main/java/com/zech/bank/controller/BalanceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank/src/main/java/com/zech/bank/controller/CardsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank/src/main/java/com/zech/bank/controller/ContactController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank/src/main/java/com/zech/bank/controller/LoansController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank/src/main/java/com/zech/bank/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank/src/main/java/com/zech/bank/controller/NoticesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank/src/main/java/com/zech/bank/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank/src/main/java/com/zech/bank/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../githubauth/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../githubauth/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../githubauth/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../githubauth/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../githubauth/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../githubauth/demo/src/main/java/com/example/demo/config/SpringSecOAUTH2GithhubConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../githubauth/demo/src/main/java/com/example/demo/controller/SecureController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaRelation/src/main/java/com/example/demo/controller/StudentControler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaRelation/src/main/java/com/example/demo/controller/subjectController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaRelation/src/main/java/com/example/demo/model/StudentEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaRelation/src/main/java/com/example/demo/model/SubjectEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaRelation/src/main/java/com/example/demo/repository/StudentRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaRelation/src/main/java/com/example/demo/repository/SubjectRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaRelation/src/main/java/com/example/demo/services/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaRelation/src/main/java/com/example/demo/services/SubjectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accountsMicroservices/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accountsMicroservices/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProject1/ArraysChallenge/src/Challenge2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProject1/ArraysChallenge/src/Challenge2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProject1/ArraysChallenge/src/Challenge3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProject1/ArraysChallenge/src/Challenge3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProject1/JavaPractice/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProject1/JavaPractice/Loop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProject1/NeedforInhericeabstract/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProject1/NeedforInhericeabstract/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProject1/NeedforInhericeabstract/src/com/TracomAbstract/ComparatorAndComparable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProject1/NeedforInhericeabstract/src/com/TracomAbstract/ComparatorAndComparable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProject1/NeedforInhericeabstract/src/com/TracomAbstract/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProject1/NeedforInhericeabstract/src/com/TracomAbstract/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProject1/NeedforInhericeabstract/src/com/TracomAbstract/Generics.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProject1/NeedforInhericeabstract/src/com/TracomAbstract/Generics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cocktails app/react-projects-15-cocktails-main/src/components/Cocktail.js" beforeDir="false" afterPath="$PROJECT_DIR$/../cocktails app/react-projects-15-cocktails-main/src/components/Cocktail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cocktails app/react-projects-15-cocktails-main/src/components/Loading.js" beforeDir="false" afterPath="$PROJECT_DIR$/../cocktails app/react-projects-15-cocktails-main/src/components/Loading.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/src/Checkout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/src/Checkout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/src/Header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/src/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/src/Home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/src/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/src/Login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/src/Login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/src/Product.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/src/Product.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/src/StateProvider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/src/Subtotal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/src/Subtotal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/src/firebase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/src/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accountsMicroservices/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/accountsMicroservices/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/accountsMicroservices" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2czSSSI7hcA67SMUkPNwMY7wcCW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/PC/Desktop/microservices",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "1b691af021408caaad8d90d6f7f8841e",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.CardApplication">
+    <configuration name="AccountsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="accounts" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zechtech.accounts.AccountsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="cards" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zechbank.card.CardApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoanApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="loans" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zechbank.loan.LoanApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="382ae8b0-12ee-4222-99c6-710007f6ab6f" name="Changes" comment="" />
+      <created>1709112917269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709112917269</updated>
+      <workItem from="1709112922165" duration="732000" />
+      <workItem from="1709114870058" duration="11510000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
