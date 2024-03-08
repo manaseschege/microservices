@@ -49,6 +49,9 @@
       <change afterPath="$PROJECT_DIR$/../githubauth/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../githubauth/demo/src/main/java/com/example/demo/config/SpringSecOAUTH2GithhubConfig.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../githubauth/demo/src/main/java/com/example/demo/controller/SecureController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../image-upload/src/main/java/com/zechphoto/image/upload/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../image-upload/src/main/java/com/zechphoto/image/upload/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../image-upload/src/main/java/com/zechphoto/image/upload/repository/StudentRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jpaRelation/src/main/java/com/example/demo/controller/StudentControler.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jpaRelation/src/main/java/com/example/demo/controller/subjectController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jpaRelation/src/main/java/com/example/demo/model/StudentEntity.java" afterDir="false" />
@@ -57,8 +60,28 @@
       <change afterPath="$PROJECT_DIR$/../jpaRelation/src/main/java/com/example/demo/repository/SubjectRepo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jpaRelation/src/main/java/com/example/demo/services/StudentService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jpaRelation/src/main/java/com/example/demo/services/SubjectService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accountsMicroservices/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accountsMicroservices/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accountsMicroservices/src/main/java/com/zechtech/accounts/dto/AccountsContactInfoDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardMicroservices/src/main/java/com/zechbank/card/dto/CardsContactInfoDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardMicroservices/src/main/resources/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configserver/src/main/resources/config/accounts-prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configserver/src/main/resources/config/accounts-qa.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configserver/src/main/resources/config/accounts.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configserver/src/main/resources/config/cards-prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configserver/src/main/resources/config/cards-qa.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configserver/src/main/resources/config/cards.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configserver/src/main/resources/config/loans-prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configserver/src/main/resources/config/loans-qa.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configserver/src/main/resources/config/loans.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose/.idea/docker-compose.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose/default/common-config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose/default/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loanMicroservices/src/main/java/com/zechbank/loan/dto/LoansContactInfoDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loanMicroservices/src/main/resources/schema.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaProject1/ArraysChallenge/src/Challenge2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProject1/ArraysChallenge/src/Challenge2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaProject1/ArraysChallenge/src/Challenge3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProject1/ArraysChallenge/src/Challenge3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaProject1/JavaPractice/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProject1/JavaPractice/Loop.java" afterDir="false" />
@@ -98,7 +121,22 @@
       <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/src/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/src/logo.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../manasesprojects/AMAZONCLONEAPP/amazonclone/src/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accountsMicroservices" beforeDir="false" afterPath="$PROJECT_DIR$/accountsMicroservices" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accountsMicroservices/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accountsMicroservices/docker-compose.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/accountsMicroservices/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/accountsMicroservices/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accountsMicroservices/src/main/java/com/zechtech/accounts/AccountsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/accountsMicroservices/src/main/java/com/zechtech/accounts/AccountsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accountsMicroservices/src/main/java/com/zechtech/accounts/controller/AccountsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/accountsMicroservices/src/main/java/com/zechtech/accounts/controller/AccountsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accountsMicroservices/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/accountsMicroservices/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cardMicroservices/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cardMicroservices/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cardMicroservices/src/main/java/com/zechbank/card/CardApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/cardMicroservices/src/main/java/com/zechbank/card/CardApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cardMicroservices/src/main/java/com/zechbank/card/controller/CardsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cardMicroservices/src/main/java/com/zechbank/card/controller/CardsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cardMicroservices/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cardMicroservices/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loanMicroservices/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/loanMicroservices/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loanMicroservices/src/main/java/com/zechbank/loan/LoanApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/loanMicroservices/src/main/java/com/zechbank/loan/LoanApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loanMicroservices/src/main/java/com/zechbank/loan/controller/LoansController.java" beforeDir="false" afterPath="$PROJECT_DIR$/loanMicroservices/src/main/java/com/zechbank/loan/controller/LoansController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loanMicroservices/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/loanMicroservices/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +145,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/accountsMicroservices" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -123,26 +162,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/PC/Desktop/microservices",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "spring.configuration.checksum": "1b691af021408caaad8d90d6f7f8841e",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/Desktop/microservices/loanMicroservices&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;1b691af021408caaad8d90d6f7f8841e&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Spring Boot.CardApplication">
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\Desktop\microservices\docker-compose\default" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AccountsApplication">
     <configuration name="AccountsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="accounts" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zechtech.accounts.AccountsApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" value="21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="SPRING_BOOT_MAIN_CLASS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -171,11 +224,141 @@
       <option name="presentableId" value="Default" />
       <updated>1709112917269</updated>
       <workItem from="1709112922165" duration="732000" />
-      <workItem from="1709114870058" duration="11510000" />
+      <workItem from="1709114870058" duration="12078000" />
+      <workItem from="1709199356992" duration="516000" />
+      <workItem from="1709200367461" duration="1604000" />
+      <workItem from="1709202044645" duration="3324000" />
+      <workItem from="1709374838769" duration="7085000" />
+      <workItem from="1709544389481" duration="3883000" />
+      <workItem from="1709631650559" duration="1922000" />
+      <workItem from="1709704706783" duration="2544000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
+    <option name="historyDtoById">
+      <map>
+        <entry key="171715">
+          <value>
+            <ChatHistoryModel>
+              <option name="id" value="171715" />
+              <option name="initiateTms" value="1709375538430" />
+              <option name="request" value="are you crazy" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="I apologize if there was any confusion. I'm here to assist you with signing in and subscribing to Machinet AI. Once you have completed the sign-in and subscription process, I'll be able to help you further." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1709375540524" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/accountsMicroservices/pom.xml" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="26aaae">
+          <value>
+            <ChatHistoryModel>
+              <option name="id" value="26aaae" />
+              <option name="initiateTms" value="1709375494590" />
+              <option name="request" value="how" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="To sign in, please press the 'Sign In' button at the left corner of the chat inside IDE. You will then be automatically redirected to https://machinet.net website, where you will be prompted to sign in. The login form contains inputs for email and password.&#10;&#10;If you don't have an account yet, you need to click the 'Sign Up' button and fill out the registration form. The registration form contains 4 inputs: email, company, first name and last name, and password.&#10;&#10;Once you have signed in, you can then proceed to subscribe to Machinet AI by choosing a Pro or Max subscription at our website: [Machinet AI Subscription](https://www.machinet.net/#pricing)." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1709375497725" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/accountsMicroservices/pom.xml" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="4fec78">
+          <value>
+            <ChatHistoryModel>
+              <option name="id" value="4fec78" />
+              <option name="initiateTms" value="1709375475630" />
+              <option name="request" value="How to fix the following error:&#10;Cannot resolve symbol 'com'" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="To assist you with resolving the error, I kindly ask you to sign in and subscribe to Machinet AI. Once you are signed in and subscribed, I'll be more than happy to help you with the error you are facing." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1709375482566" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/accountsMicroservices/pom.xml" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="8648ce">
+          <value>
+            <ChatHistoryModel>
+              <option name="id" value="8648ce" />
+              <option name="initiateTms" value="1709375519458" />
+              <option name="request" value="why can't help now" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="I'm unable to assist with code-related tasks until you are signed in and subscribed to Machinet AI. Once you have completed the sign-in and subscription process, I'll be more than happy to help you with any coding issues you may have." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1709375521338" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/accountsMicroservices/pom.xml" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="927534">
+          <value>
+            <ChatHistoryModel>
+              <option name="id" value="927534" />
+              <option name="initiateTms" value="1709375331013" />
+              <option name="request" value="How to fix the following error:&#10;Cannot resolve symbol 'com'" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Welcome to Machinet AI! To get started, please sign in and subscribe in order to use Machinet AI. &#10;&#10;To sign in, press the 'Sign In' button at the left corner of the chat inside IDE. You will then be automatically redirected to https://machinet.net website, where you will be prompted to sign in. The login form contains inputs for email and password.&#10;&#10;If you don't have an account yet, you need to click the 'Sign Up' button and fill out the registration form. The registration form contains 4 inputs: email, company, first name and last name, and password.&#10;&#10;Once you are signed in, I can help you with the error you are facing." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1709375340478" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/accountsMicroservices/pom.xml" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="ab0d49">
+          <value>
+            <ChatHistoryModel>
+              <option name="id" value="ab0d49" />
+              <option name="initiateTms" value="1709375503967" />
+              <option name="request" value="what the fuck" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="I apologize for any frustration. If you have any questions or need assistance with signing in or subscribing, please feel free to ask." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1709375505844" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/accountsMicroservices/pom.xml" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/microservices$AccountsApplication.ic" NAME="AccountsApplication Coverage Results" MODIFIED="1709375662591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
